@@ -1,7 +1,7 @@
 #include <iostream>
 int main() {
     std::cout << "HELLO WORLD";
-    return 1;
-
+    int n;
+    std::cin >> n;
 
 }
